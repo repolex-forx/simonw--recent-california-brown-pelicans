@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "recent-california-brown-pelicans",
+  "versions": [
+    {
+      "commit": "ebb3164a05c2042b504ce88c409ba3b563d27882",
+      "parsed_at": "2026-10-20T10:28:03.592141+00:00",
+      "filetree": "filetree/ebb3164a05c2042b504ce88c409ba3b563d27882.nq.gz",
+      "blobs": [
+        "blob/0b95aa5532815c947ab0b341a4a3c446094cbbbb.nq.gz",
+        "blob/cf5c9029e01143dcd57a89057a34f5f8451d0e83.nq.gz",
+        "blob/c4329a0d9a507b702beda031b24aa207d140f4b8.nq.gz",
+        "blob/e29e8101ff69971f2eab46eab5df9e03195a312c.nq.gz",
+        "blob/11d37d26f24fe1d7021245b4a4ef6ce668cb69b8.nq.gz",
+        "blob/7343c14baaf731941097644b7814a4132c7f4934.nq.gz",
+        "blob/c276f31368b1ee85509be187512d8217726f5c7d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
